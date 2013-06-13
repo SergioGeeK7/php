@@ -1,0 +1,907 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"mysql",
+				"mysql_close"
+			],
+			[
+				"ar",
+				"articulo"
+			],
+			[
+				"mysql_c",
+				"mysql_close"
+			],
+			[
+				"co",
+				"conexion"
+			],
+			[
+				"utc",
+				"utc"
+			],
+			[
+				"u",
+				"utc3"
+			],
+			[
+				"TITU",
+				"titulo"
+			],
+			[
+				"mysql_",
+				"mysql_close"
+			],
+			[
+				"sub",
+				"subtitulo"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"res",
+				"respuestas"
+			],
+			[
+				"pi",
+				"piel"
+			],
+			[
+				"USUAR",
+				"usuario"
+			],
+			[
+				"mysql_S",
+				"mysql_select_db"
+			],
+			[
+				"session_",
+				"session_destroy"
+			],
+			[
+				"ho",
+				"hora0"
+			],
+			[
+				"CONT",
+				"contrasenalog"
+			],
+			[
+				"USUARIO",
+				"usuariolog"
+			],
+			[
+				"USU",
+				"usuario"
+			],
+			[
+				"NAVE",
+				"navegador"
+			],
+			[
+				"IP",
+				"ip"
+			],
+			[
+				"con",
+				"conexion"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"g",
+				"_GET"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"DI",
+				"direccion"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"USUA",
+				"USUARIO"
+			],
+			[
+				"I",
+				"IP"
+			],
+			[
+				"SE",
+				"Segundo"
+			],
+			[
+				"cont",
+				"Contrasena"
+			],
+			[
+				"Usuai",
+				"Usuarios"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"cone",
+				"conexion"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"fge",
+				"fgetcsv"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"CON",
+				"conexion"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			],
+			[
+				"saludo",
+				"saludo2"
+			],
+			[
+				"salu",
+				"saludo2"
+			],
+			[
+				"sa",
+				"saludo"
+			],
+			[
+				"tra",
+				"traducciondia"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"po",
+				"por"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"NO",
+				"nombre"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n<aside id='post'>\n\n<h5>Post previos</h5>\n\n\n<ul>\n\n\n<?php \n\n$conexion=mysql_connect(\"localhost\",\"sergiohack\",\"password\");\nmysql_select_db(\"blogs\",$conexion);\n\n// OFFSET ES EXCLUYENDO LOS 3 PRIMEROS\n$peticion=mysql_query(\"SELECT * FROM post WHERE usuario='\".$_SESSION['usuario'].\"' ORDER BY utc DESC LIMIT 20 OFFSET 3\",$conexion);\n\n\nwhile ($fila=mysql_fetch_array($peticion)) {\n	\necho \"\n\n\n<li> <a href='index.php?articulo=yes&utc=\".$fila['utc'].\"'>  <time>\".$fila['ano'].\"-\".$fila['mes'].\"-\".$fila['dia'].\"</time> / \".$fila['titulo'].\"  </a> </li>\n\n\n\" ;\n\n}\n\n\n\n\n ?>\n\n\n\n\n\n</ul>\n\n\n</aside>\n\n\n",
+			"file": "/C/wamp/www/Foro/includes/archivo.php",
+			"file_size": 653,
+			"file_write_time": 130143613881230468,
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/sublime-run-in-browser-master/run_in_browser.py",
+			"settings":
+			{
+				"buffer_size": 813,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/PHP/AutoPlay/php/php1/php1.html",
+		"/D/PHP/AutoPlay/php/php38/php38.html",
+		"/C/wamp/www/include/include.php",
+		"/C/wamp/www/include/require.php",
+		"/C/wamp/www/phpinfo.php",
+		"/C/wamp/www/guardartexto/write.php",
+		"/C/wamp/www/guardartexto/archivo.txt",
+		"/C/wamp/www/funciones/function.php",
+		"/C/wamp/www/mysql/DELETE.php",
+		"/C/wamp/www/mysql/UPDATE.php",
+		"/C/wamp/www/foreach.php",
+		"/C/wamp/www/Foro/index.php",
+		"/C/wamp/www/hola.html",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/sublime-run-in-browser-master/Default (Windows).sublime-keymap",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/Chrome.sublime-build",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/sublime-run-in-browser-master/run_in_browser.py",
+		"/C/wamp/www/lalala.html",
+		"/C/wamp/www/Foro/includes/posts.php",
+		"/C/wamp/www/Foro/includes/variablesusuario.php",
+		"/C/wamp/www/mysql/project.sublime-project",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/wamp/www/Foro/includes/registrar.php",
+		"/C/wamp/www/Foro/Database/instalacion.php",
+		"/C/wamp/www/Foro/includes/formularioregistro.php",
+		"/C/wamp/www/Foro/includes/articulosold.php",
+		"/C/wamp/www/Foro/includes/actualizar.php",
+		"/C/wamp/www/Foro/includes/logout.php",
+		"/C/wamp/www/Foro/includes/archivo.php",
+		"/C/wamp/www/Foro/includes/login.php",
+		"/C/wamp/www/Foro/includes/articulos_old.php",
+		"/C/wamp/www/Foro/includes/actualizarpost.php",
+		"/C/wamp/www/Favoritos/actualizarusuario.php",
+		"/C/wamp/www/Foro/includes/crearpost.php",
+		"/C/wamp/www/Foro/includes/eliminar.php",
+		"/C/wamp/www/Foro/includes/post.php",
+		"/C/wamp/www/Favoritos/index.php",
+		"/C/wamp/www/mysql/insertar.php",
+		"/C/wamp/www/Foro/includes/crearnuevopost.php",
+		"/C/wamp/www/Foro/includes/crearpost",
+		"/C/wamp/www/mysql/ordenar_ORDERBY.php",
+		"/C/wamp/www/Foro/css/estilos.css",
+		"/C/Users/sergio/Desktop/univercidad.php",
+		"/C/wamp/www/variables.php",
+		"/C/wamp/www/Foro/verbase.php",
+		"/C/wamp/www/mysql/creardatabase.php",
+		"/C/wamp/www/Favoritos/login.php",
+		"/C/Users/sergio/Downloads/Java Sena/Grafico/Compilacion/Calculando.html",
+		"/C/Users/sergio/AppData/Local/Temp/Rar$EX00.608/Generador.html",
+		"/C/Users/sergio/AppData/Local/Temp/Rar$EX00.413/Calculando.html",
+		"/C/Users/sergio/Downloads/Java Sena/Grafico/Compilacion/Virus.html",
+		"/C/wamp/www/Favoritos/formulariologin.php",
+		"/D/cd/cd1/Manage PC Shut Down/unins000.dat",
+		"/C/wamp/www/Favoritos/principal.php",
+		"/C/wamp/www/Favoritos/logout.php",
+		"/C/wamp/www/Favoritos/eliminarusuario.php",
+		"/C/wamp/www/Favoritos/gestionusuarios.php",
+		"/C/wamp/www/Favoritos/admin.php",
+		"/C/wamp/www/Favoritos/agregarusuario.php",
+		"/C/wamp/www/Favoritos/log.php",
+		"/C/wamp/www/Favoritos/verlogs.php",
+		"/C/wamp/www/Favoritos/crearusuario.php",
+		"/C/wamp/www/Favoritos/agregarfavorito.php",
+		"/C/wamp/www/Favoritos/formularioalta.php",
+		"/C/wamp/www/Favoritos/actualizarfavorito.php",
+		"/C/wamp/www/Favoritos/formularioactualizarusuario.php",
+		"/C/wamp/www/Favoritos/formularioactualizar.php",
+		"/C/wamp/www/Favoritos/eliminarfavorito.php",
+		"/C/wamp/www/objetos/objeto1.php",
+		"/C/wamp/www/Favoritos/instalacion.php",
+		"/C/wamp/www/mysql/agregar.php",
+		"/C/wamp/www/depurador.php",
+		"/H/principal.php",
+		"/D/cd/cd9/Documentos/Ventanasinbarra2.html",
+		"/D/cd/cd9/Documentos/Ventanassinbarrsa.html",
+		"/D/cd/cd9/Documentos/Ventansinbarras.html",
+		"/D/cd/cd9/Documentos/NA.html",
+		"/C/wamp/www/xx2.php",
+		"/C/wamp/www/xx.php",
+		"/C/wamp/www/mysql/filtrar_where.php",
+		"/C/wamp/www/Favoritos/archivo.php",
+		"/C/wamp/www/Favoritos/favorito.php",
+		"/C/wamp/www/condicionales.php",
+		"/C/wamp/www/seciones/origen.php",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/Prevu/Prevu.sublime-settings",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/viewInBrowser.py",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/PluginNavegator.py",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/Chrome_2.sublime-build",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/User/View In Browser.sublime-settings",
+		"/C/wamp/www/averiguardatosdeusuario.php",
+		"/C/wamp/www/Favoritos/fabs.php",
+		"/C/xampp/htdocs/objetos/objeto2.php",
+		"/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/xampp/htdocs/mysql/insertar.php",
+		"/C/Users/Public/Pictures/Sample Pictures/Penguin52s2.txt",
+		"/C/Users/sergio/Documents/NetBeansProjects/Applet_buffer/numeros.dat",
+		"/C/wamp/www/sqlite/delete.php",
+		"/C/xampp/htdocs/phpinfo.php",
+		"/C/xampp/htdocs/funciones/globales.php",
+		"/C/wamp/www/sqlite/update.php",
+		"/D/cd/cd11/Descargas/Sublime Text 2/sublime_plugin.py",
+		"/C/Users/sergio/Documents/NetBeansProjects/Applet_salida/pic - copia.gif",
+		"/C/Users/sergio/Documents/NetBeansProjects/Applet_salida/pic.gif",
+		"/D/Compilacion/wallpaper-880919.jpg",
+		"/D/Compilacion/Guy_Fawkes_mask.png",
+		"/C/wamp/www/sqlite/verbiblioteca.php",
+		"/C/wamp/www/sqlite/rellenar.php",
+		"/C/wamp/www/sqlite/crearbiblioteca.php",
+		"/C/xampp/htdocs/setup-owncloud.php",
+		"/C/xampp/htdocs/sqlite/crearbiblioteca.php",
+		"/C/wamp/www/logvisitantes/genlog.php",
+		"/C/wamp/www/logvisitantes/organizar.php",
+		"/C/wamp/www/logvisitantes/logs.dat",
+		"/C/wamp/www/phpinfo",
+		"/C/wamp/www/logvisitantes/logs.txt",
+		"/C/wamp/www/mysql/consulta.php",
+		"/C/wamp/www/mysql/conexion3_primaria.php",
+		"/C/wamp/www/mysql/conexion2.php",
+		"/C/wamp/www/mysql/firstconexion.php",
+		"/C/wamp/www/objetos/objeto3.php",
+		"/C/wamp/www/objetos/herencia.php",
+		"/C/wamp/www/objetos/objeto4.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\sergio\\Documents\\NetBeansProjects",
+			"C:\\wamp\\www,D:\\cd\\cd11\\Descargas\\Java Sena ,D:\\cd\\cd12",
+			"C:\\wamp\\www,D:\\cd\\cd11\\Descargas\\Java Sena ",
+			"C:\\wamp\\www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"JTable",
+			"La misma acción la podemos realizar\n",
+			"random\n",
+			"}\"]\n",
+			"Chrome.sublime-build",
+			"objeto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/Foro/includes/archivo.php",
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"php": "c:/wamp/bin/php/php5.4.3/php.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/sergio/AppData/Roaming/Sublime Text 2/Packages/sublime-run-in-browser-master/run_in_browser.py",
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"php": "c:/wamp/bin/php/php5.4.3/php.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"include/require.php"
+			],
+			[
+				"ar",
+				"guardartexto/archivo.txt"
+			],
+			[
+				"fun",
+				"funciones/function.php"
+			],
+			[
+				"for",
+				"foreach.php"
+			],
+			[
+				".html",
+				"hola.html"
+			],
+			[
+				"variablesu",
+				"Foro/includes/variablesusuario.php"
+			],
+			[
+				"varial",
+				"variables.php"
+			],
+			[
+				"objeto",
+				"objetos/objeto1.php"
+			],
+			[
+				"creart",
+				"mysql/creardatabase.php"
+			],
+			[
+				"",
+				"htdocs/mysql/insertar.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}
