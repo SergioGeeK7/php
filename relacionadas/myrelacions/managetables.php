@@ -5,8 +5,6 @@
 </head>
 
 <?php 
-
-
 //SELECT Q.COMENTARIO, V.NOMBRE, Z.NOMBRE
 //FROM quejas Q
 //JOIN vendedor V ON Q.CARNET = V.CARNET
@@ -40,6 +38,12 @@ else{
        places.push('<?php echo $arreglo_php[$p]; ?>');
      <?php } // cierre for php ?>
 
+    var myJSON = JSON.stringify({places: places});
+    document.write(myJSON);
+
+
+
+     // UNA PETICION AJAX CON LO DE ARRIBA
 
      $('#filtro').autocomplete({
 						source:places,
@@ -57,9 +61,6 @@ else{
 								    dataType: 'json',
 								    error: function (error){console.log(error);},
 								    success: function(datos){
-								        /*$('#resultados').text(JSON.stringify(datos, null, 4));
-								        $('#respuesta').text(datos.respuesta).fadeIn('slow');*/
-								         console.log('hola');
 								         $('#respuesta').text(JSON.stringify(datos, null, 4));
 								    }
 								});

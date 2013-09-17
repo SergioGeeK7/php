@@ -33,18 +33,45 @@
 //         $('#respuesta').text(datos.respuesta).fadeIn('slow');
 //     }
 // });
-///------------------------------------------------------------ END-------
-
+///------------------------------------------------------------ END-----------------------------------
+//$consulta = mysqli_query($conexion,"SELECT nombre,idzona FROM zona WHERE nombre='$peticion'");
 
 
 //$peticion = $_POST['peticion'];
-$peticion = 'exito de robledo';
+$peticion = 'alpujarra';
 $conexion = mysqli_connect('localhost','root','');
 mysqli_select_db($conexion,'espacio_publico');
+$consulta = mysqli_query($conexion,"SELECT idzona FROM zona WHERE nombre='$peticion'");
+$id= mysqli_fetch_array($consulta);
+$consulta = mysqli_query($conexion,"SELECT * FROM vendedor WHERE idzona='".$id['idzona']."'");
+// $con =0;
+// $vendedores="";
+// while ($fila = mysqli_fetch_array($consulta)) {
+// 	$vendedores += ",$con:".json_encode($fila);
+// 	$con++;
+// }
 
-$consulta = mysqli_query($conexion,"SELECT nombre,idzona FROM zona WHERE nombre='$peticion'");
+// $vendedores = "{".$vendedores."}";
+// echo "$vendedores";
+while($row=mysqli_fetch_assoc($consulta)){
+$output[]=$row;
+}
+print(json_encode($output));
+mysqli_close($conexion);
 
 
+
+//echo json_encode(mysqli_fetch_array($consulta));
+
+//SELECT Q.COMENTARIO, V.NOMBRE, Z.NOMBRE
+//FROM quejas Q
+//JOIN vendedor V ON Q.CARNET = V.CARNET
+//JOIN zona Z ON V.IDZONA = Z.IDZONA
+//LIMIT 0 , 30
+
+
+
+/*----------------------------------------CERRADO-----------------------------------------------------------------
 $slices = explode(' ', $peticion);
 $talvez = mysqli_query($conexion,"SELECT nombre,idzona FROM zona WHERE nombre LIKE '%".$slices[count($slices)-1]."' ");
 $array2 = array();
@@ -58,7 +85,7 @@ $array1=mysqli_fetch_array($consulta);
 
 $uni = array_merge($array1,$array2);
 echo json_encode($uni);
-
+*/
 //echo json_encode(mysqli_fetch_array($consulta,$talvez));
 
 // $arreglo_php = array();
