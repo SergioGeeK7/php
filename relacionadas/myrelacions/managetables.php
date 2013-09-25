@@ -45,32 +45,6 @@ else{
 
      // UNA PETICION AJAX CON LO DE ARRIBA
 
-     $('#filtro').autocomplete({
-						source:places,
-						delay: 30,
-						select: function( event, ui ) {
-
-							console.log(ui.item.value);
-
-							$.ajax({
-								    url: 'recivirpeticion.php',
-								    data: {
-								    		peticion:ui.item.value
-								        },
-								    type: 'POST',
-								    dataType: 'json',
-								    error: function (error){console.log(error);},
-								    success: function(datos){
-								         $('#respuesta').text(JSON.stringify(datos, null, 4));
-								    }
-								});
-
-
-						}
-					});
+     
   });
 </script>
-
-
-<input type="text" id="filtro">
-<div id="respuesta"></div>
