@@ -1,0 +1,1409 @@
+t: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso101910 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso35106 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso7865 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso7848 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso8666 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso4224 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso1898 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso4171 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso41047 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso8656 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso7235 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso6975 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso1734 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso56108 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso5658 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso85110 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+ERROR Agireso10546
+INFO Agireso1271 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso3946 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+ERROR Agireso3513
+INFO Agireso6349 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso66101 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso110210 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso3792 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso7147 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso54108 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso6371 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso29510 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso3612 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso4441 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso2548 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso6826 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+ERROR Agireso43110
+ERROR Agireso8241
+ERROR Agireso10817
+ERROR Agireso2535
+ERROR Agireso9974
+ERROR Agireso106104
+ERROR Agireso53810
+ERROR Agireso5742
+ERROR Agireso1582
+ERROR Agireso1631
+ERROR Agireso10829
+ERROR Agireso49104
+ERROR Agireso9693
+ERROR Agireso4922
+ERROR Agireso9875
+ERROR Agireso5643
+ERROR Agireso8187
+INFO Agireso4557 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso2863 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso36610 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso2763 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso9379 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso6555 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso84110 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso2716 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso7961 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+INFO Agireso10916 cr��, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP chang�e.
+
+1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso54108 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6371 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso29510 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso3612 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso4441 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2548 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6826 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso43110
+ERROR Agireso8241
+ERROR Agireso10817
+ERROR Agireso2535
+ERROR Agireso9974
+ERROR Agireso106104
+ERROR Agireso53810
+ERROR Agireso5742
+ERROR Agireso1582
+ERROR Agireso1631
+ERROR Agireso10829
+ERROR Agireso49104
+ERROR Agireso9693
+ERROR Agireso4922
+ERROR Agireso9875
+ERROR Agireso5643
+ERROR Agireso8187
+INFO Agireso4557 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2863 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso36610 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2763 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso9379 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6555 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso84110 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2716 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7961 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10916 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso1177
+ERROR Agireso6879
+INFO Agireso9212 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso53109 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso1827 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso4376 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso9345 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso9453 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso710310 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso5819 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10997 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso34410
+INFO Agireso82210 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7818 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso9479 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10384 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8857 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso1838
+ERROR Agireso9989
+INFO Agireso1191 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7191 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso910105 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10957 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso4831
+ERROR Agireso6164
+INFO Agireso7594 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8568 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso6128
+INFO Agireso6166 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8499 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+
+Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso4376 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso9345 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso9453 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso710310 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso5819 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10997 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso34410
+INFO Agireso82210 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7818 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso9479 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10384 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8857 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso1838
+ERROR Agireso9989
+INFO Agireso1191 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7191 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso910105 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10957 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso4831
+ERROR Agireso6164
+INFO Agireso7594 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8568 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso6128
+INFO Agireso6166 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8499 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso31017 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7285 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso4879 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso35510 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8282 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso1644 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2258 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6998 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso15710 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2417 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso72103 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2712 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso53107 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso7664
+INFO Agireso10433 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso3357 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6841 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso93107
+INFO Agireso9487 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso95710 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10947 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso10193
+ERROR Agireso78410
+ERROR Agireso8657
+ERROR Agireso6589
+ERROR Agireso7434
+ERROR Agireso5756
+ERROR Agireso7619
+ERROR Agireso17108
+ERROR Agireso5828
+ERROR Agireso9288
+ERROR Agireso9515
+ERROR Agireso109710
+ERROR Agireso98108
+ERROR Agireso2313
+ERROR Agireso4772
+ERROR Agireso9414
+ERROR Agireso8554
+ERROR Agireso9429
+ERROR Agireso6489
+
+ "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso34410
+INFO Agireso82210 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7818 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso9479 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10384 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8857 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso1838
+ERROR Agireso9989
+INFO Agireso1191 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7191 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso910105 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10957 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso4831
+ERROR Agireso6164
+INFO Agireso7594 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8568 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso6128
+INFO Agireso6166 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8499 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso31017 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7285 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso4879 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso35510 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8282 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso1644 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2258 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6998 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso15710 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2417 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso72103 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2712 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso53107 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso7664
+INFO Agireso10433 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso3357 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6841 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso93107
+INFO Agireso9487 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso95710 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10947 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso10193
+ERROR Agireso78410
+ERROR Agireso8657
+ERROR Agireso6589
+ERROR Agireso7434
+ERROR Agireso5756
+ERROR Agireso7619
+ERROR Agireso17108
+ERROR Agireso5828
+ERROR Agireso9288
+ERROR Agireso9515
+ERROR Agireso109710
+ERROR Agireso98108
+ERROR Agireso2313
+ERROR Agireso4772
+ERROR Agireso9414
+ERROR Agireso8554
+ERROR Agireso9429
+ERROR Agireso6489
+ERROR Agireso6431
+ERROR Agireso9335
+ERROR Agireso5688
+ERROR Agireso6531
+ERROR Agireso7212
+ERROR Agireso8355
+ERROR Agireso47101
+ERROR Agireso7498
+ERROR Agireso59510
+ERROR Agireso8474
+ERROR Agireso10967
+ERROR Agireso5723
+ERROR Agireso58109
+ERROR Agireso11066
+ERROR Agireso7865
+ERROR Agireso10364
+ERROR Agireso3936
+ERROR Agireso5475
+ERROR Agireso8577
+ERROR Agireso6616
+ERROR Agireso4418
+ERROR Agireso5414
+ERROR Agireso2183
+ERROR Agireso1712
+ERROR Agireso10158
+ERROR Agireso2588
+ERROR Agireso61097
+ERROR Agireso3835
+ERROR Agireso4993
+ERROR Agireso91081
+ERROR Agireso48101
+ERROR Agireso6536
+ERROR Agireso4926
+ERROR Agireso10349
+ERROR Agireso9661
+ERROR Agireso5115
+ERROR Agireso4315
+ERROR Agireso10449
+ERROR Agireso7829
+ERROR Agireso4363
+ERROR Agireso9358
+ERROR Agireso5114
+ERROR Agireso2253
+ERROR Agireso8763
+ERROR Agireso4154
+ERROR Agireso1352
+ERROR Agireso1256
+ERROR Agireso7869
+ERROR Agireso2653
+ERROR Agireso5526
+ERROR Agireso4723
+ERROR Agireso98710
+ERROR Agireso39108
+ERROR Agireso3612
+ERROR Agireso7198
+ERROR Agireso8969
+ERROR Agireso9576
+ERROR Agireso3796
+ERROR Agireso5451
+ERROR Agireso8828
+ERROR Agireso37106
+ERROR Agireso6288
+ERROR Agireso101046
+ERROR Agireso31025
+ERROR Agireso1265
+ERROR Agireso4283
+ERROR Agireso9135
+ERROR Agireso3128
+ERROR Agireso3742
+ERROR Agireso61058
+ERROR Agireso95910
+ERROR Agireso31810
+ERROR Agireso81038
+ERROR Agireso8886
+ERROR Agireso8439
+ERROR Agireso4546
+ERROR Agireso8811
+ERROR Agireso104310
+ERROR Agireso4413
+ERROR Agireso9778
+ERROR Agireso64510
+ERROR Agireso101015
+ERROR Agireso61092
+ERROR Agireso110107
+ERROR Agireso8243
+
+FO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso7664
+INFO Agireso10433 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso3357 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6841 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso93107
+INFO Agireso9487 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso95710 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10947 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso10193
+ERROR Agireso78410
+ERROR Agireso8657
+ERROR Agireso6589
+ERROR Agireso7434
+ERROR Agireso5756
+ERROR Agireso7619
+ERROR Agireso17108
+ERROR Agireso5828
+ERROR Agireso9288
+ERROR Agireso9515
+ERROR Agireso109710
+ERROR Agireso98108
+ERROR Agireso2313
+ERROR Agireso4772
+ERROR Agireso9414
+ERROR Agireso8554
+ERROR Agireso9429
+ERROR Agireso6489
+ERROR Agireso6431
+ERROR Agireso9335
+ERROR Agireso5688
+ERROR Agireso6531
+ERROR Agireso7212
+ERROR Agireso8355
+ERROR Agireso47101
+ERROR Agireso7498
+ERROR Agireso59510
+ERROR Agireso8474
+ERROR Agireso10967
+ERROR Agireso5723
+ERROR Agireso58109
+ERROR Agireso11066
+ERROR Agireso7865
+ERROR Agireso10364
+ERROR Agireso3936
+ERROR Agireso5475
+ERROR Agireso8577
+ERROR Agireso6616
+ERROR Agireso4418
+ERROR Agireso5414
+ERROR Agireso2183
+ERROR Agireso1712
+ERROR Agireso10158
+ERROR Agireso2588
+ERROR Agireso61097
+ERROR Agireso3835
+ERROR Agireso4993
+ERROR Agireso91081
+ERROR Agireso48101
+ERROR Agireso6536
+ERROR Agireso4926
+ERROR Agireso10349
+ERROR Agireso9661
+ERROR Agireso5115
+ERROR Agireso4315
+ERROR Agireso10449
+ERROR Agireso7829
+ERROR Agireso4363
+ERROR Agireso9358
+ERROR Agireso5114
+ERROR Agireso2253
+ERROR Agireso8763
+ERROR Agireso4154
+ERROR Agireso1352
+ERROR Agireso1256
+ERROR Agireso7869
+ERROR Agireso2653
+ERROR Agireso5526
+ERROR Agireso4723
+ERROR Agireso98710
+ERROR Agireso39108
+ERROR Agireso3612
+ERROR Agireso7198
+ERROR Agireso8969
+ERROR Agireso9576
+ERROR Agireso3796
+ERROR Agireso5451
+ERROR Agireso8828
+ERROR Agireso37106
+ERROR Agireso6288
+ERROR Agireso101046
+ERROR Agireso31025
+ERROR Agireso1265
+ERROR Agireso4283
+ERROR Agireso9135
+ERROR Agireso3128
+ERROR Agireso3742
+ERROR Agireso61058
+ERROR Agireso95910
+ERROR Agireso31810
+ERROR Agireso81038
+ERROR Agireso8886
+ERROR Agireso8439
+ERROR Agireso4546
+ERROR Agireso8811
+ERROR Agireso104310
+ERROR Agireso4413
+ERROR Agireso9778
+ERROR Agireso64510
+ERROR Agireso101015
+ERROR Agireso61092
+ERROR Agireso110107
+ERROR Agireso8243
+ERROR Agireso2681
+ERROR Agireso310710
+ERROR Agireso10556
+ERROR Agireso6332
+ERROR Agireso5176
+ERROR Agireso1613
+ERROR Agireso7491
+ERROR Agireso11044
+ERROR Agireso1183
+ERROR Agireso2612
+ERROR Agireso5848
+INFO Agireso92102 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8574 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6152 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8799 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso10555
+INFO Agireso1528 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso4388 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso3722 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso5333 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso4849 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso7253 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso931010 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+ERROR Agireso8361
+ERROR Agireso210106
+INFO Agireso33510 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso99108 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso91056 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso691010 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso8827 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso94810 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso1010102 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso10867 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso1856 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6372 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso5432 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso610410 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso41026 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso2588 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
+INFO Agireso6995 créé, pas d'xp
+INFO Changement d'adresse IP...
+INFO out: 
+INFO out: C:\Documents and Settings\Administrador\Escritorio\brutal-combo-1.4.01\brutal-combo-1.4.01>echo "ip cambiando" 
+INFO out: "ip cambiando"
+INFO Adresse IP changée.
