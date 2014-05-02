@@ -1,0 +1,25 @@
+#side1{
+float:left;
+display: inline-block;
+width: 230px;
+margin-right: 180px;
+margin-left: 180px;
+}
+#side2{
+float:left;
+width: 230px;
+}
+
+#side1 img,#side2 img {
+    width: 230px;
+    height: 230px;
+}
+
+
+#articleTitle{
+    text-align: center;
+}
+
+#side1 p,#side2 p {
+    border: black 1px solid;    
+}

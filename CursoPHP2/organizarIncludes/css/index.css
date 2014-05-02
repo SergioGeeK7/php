@@ -1,0 +1,44 @@
+article {
+	font-family: "Times New Roman", Times, serif;
+	width: 900px;
+    height: 100%;
+	overflow: auto;
+	margin: 35px;
+	float: center;
+    width: 960px;
+    background: #fff;
+    box-shadow: 10px 10px 5px #888888;
+    border:2px;
+    border-radius:10px;
+    margin: 0 auto;
+
+}
+
+.img2{
+    width: 150px;
+    height: 150px;
+}
+.img3{
+    width: 600x;
+    height: 400px;
+}
+
+
+#otrosArticulos{
+    width: 222px;
+    color: #a8a8a8;
+    text-align: justify;
+    position: absolute;
+       
+}
+
+
+
+.informacion3{
+    width: 600px;
+    color: #a8a8a8;
+    float: right;
+    margin-right: 135px;
+    
+}
+

@@ -1,6 +1,6 @@
 <?php 
 
-// include 'clase.php'; autoload
+//include 'clase.php'; autoload
 
 // esta clase incluye todo lo que este en el directorio .php
 function __autoload($nombre){
